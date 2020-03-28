@@ -22,6 +22,7 @@ main {
 }
 
 header {
+    padding: 2em
     border-bottom: 1px solid #000;
     height: 20vh;
     box-sizing: border-box;
